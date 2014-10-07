@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>32feet.Net-MVVMServices</id>
+        <version>1.0.0.0</version>
+        <title>32feet.Net - MVVM Services for Bluethood communication.</title>
+        <authors>saramgsilva</authors>
+        <owners>saramgsilva</owners>
+        <licenseUrl>https://raw.githubusercontent.com/saramgsilva/BluethoodSampleUsing32feet.Net/master/LICENSE</licenseUrl>
+        <projectUrl>http://saramgsilva.github.io/BluethoodSampleUsing32feet.Net</projectUrl>
+        <iconUrl>http://s27.postimg.org/5i9zb6s27/image.png</iconUrl>
+        <requireLicenseAcceptance>false</requireLicenseAcceptance>
+        <description>Provides the Device, ReceiverBluetoothService and SenderBluetoothService classes for help to use 32feet.Net in WPF applications that implements the MVVM pattern.</description>
+        <copyright>Copyright 2014 saramgsilva</copyright>
+        <language>en-US</language>
+        <tags>Bluethood, 32feet.Net, WPF, MVVM, saramgsilva, Sara Silva</tags>
+        <dependencies>
+            <dependency id="32feet.NET" version="3.5.0.0" />
+            <dependency id="MvvmLightLibs" version="4.4.32.7" />
+        </dependencies>
+    </metadata>
+    <files>
+	    <file src="content\Model\Device.cs" target="content\Model\Device.cs" />
+        <file src="content\Services\IReceiverBluetoothService.cs" target="content\Services\IReceiverBluetoothService.cs" />
+        <file src="content\Services\ISenderBluetoothService.cs" target="content\Services\ISenderBluetoothService.cs" />
+        <file src="content\Services\ReceiverBluetoothService.cs" target="content\Services\ReceiverBluetoothService.cs" />
+        <file src="content\Services\SenderBluetoothService.cs" target="content\Services\SenderBluetoothService.cs" />
+    </files>
+</package>
