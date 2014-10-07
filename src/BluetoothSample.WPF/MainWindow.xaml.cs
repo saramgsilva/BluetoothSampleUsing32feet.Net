@@ -7,6 +7,9 @@
 // </summary>
 // --------------------------------------------------------------------------------------------------------------------
 
+using System.Windows.Media;
+using FirstFloor.ModernUI.Presentation;
+
 namespace BluetoothSample
 {
     /// <summary>
@@ -20,6 +23,7 @@ namespace BluetoothSample
         public MainWindow()
         {
             InitializeComponent();
+            AppearanceManager.Current.AccentColor = Colors.Red;
         }
     }
 }

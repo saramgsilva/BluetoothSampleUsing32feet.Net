@@ -30,7 +30,7 @@ namespace BluetoothSample.Services
         {
             // this guid is random, only need to match in Sender & Receiver
             // this is like a "key" for the connection!
-            _serviceClassId = new Guid("0e6114d0-8a2e-477a-8502-298d1ff4b4ba");
+            _serviceClassId = new Guid("9bde4762-89a6-418e-bacf-fcd82f1e0677");
         }
 
         /// <summary>

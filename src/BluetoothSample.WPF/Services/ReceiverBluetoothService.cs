@@ -33,7 +33,7 @@ namespace BluetoothSample.Services
         /// </summary>
         public ReceiverBluetoothService()
         {
-            _serviceClassId = new Guid("0e6114d0-8a2e-477a-8502-298d1ff4b4ba");
+           _serviceClassId = new Guid("9bde4762-89a6-418e-bacf-fcd82f1e0677");
         }
 
         /// <summary>
