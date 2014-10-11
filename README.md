@@ -51,7 +51,19 @@ For test the application we need two devices, where in the first device we will 
 <img src="http://i1.wp.com/www.saramgsilva.com/wp-content/uploads/2014/10/100714_1225_Howtosendda10.png?w=584">
 </MTMarkdownOptions>  
 
+Nuget
+=====
 
+In [Nuget](https://www.nuget.org/) is available the nuget package with the classes created in this sample:
+
+[32feet.Net - MVVM Services for Bluethood communication ](https://www.nuget.org/packages/32feet.Net-MVVMServices/)
+
+> Installing the 32feet.Net - MVVM Services for Bluethood communication
+
+
+<MTMarkdownOptions output='html4'>
+<img src="http://s9.postimg.org/69najt5m7/nuget.png">
+</MTMarkdownOptions>  
 
 Follow me
 =====
