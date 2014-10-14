@@ -1,12 +1,12 @@
-Bluethood Sample Using 32feet.Net
+Bluetooth Sample Using 32feet.Net
 ==============================
 
-Sample that show how to send data through Bluethood in a WPF application using 32feet.Net (uses MVVM pattern).
+Sample that show how to send data through Bluetooth in a WPF application using 32feet.Net (uses MVVM pattern).
 
 
 Article
 ==
-[How to send data through Bluethood in a WPF application using 32feet.Net](http://wp.me/p4LXhq-GG)
+[How to send data through Bluetooth in a WPF application using 32feet.Net](http://wp.me/p4LXhq-GG)
 
 
 Running the WPF Application
@@ -56,9 +56,9 @@ Nuget
 
 In [Nuget](https://www.nuget.org/) is available the nuget package with the classes created in this sample:
 
-[32feet.Net - MVVM Services for Bluethood communication ](https://www.nuget.org/packages/32feet.Net-MVVMServices/)
+[32feet.Net - MVVM Services for Bluetooth communication ](https://www.nuget.org/packages/32feet.Net-MVVMServices/)
 
-> Installing the 32feet.Net - MVVM Services for Bluethood communication
+> Installing the 32feet.Net - MVVM Services for Bluetooth communication
 
 
 <MTMarkdownOptions output='html4'>
